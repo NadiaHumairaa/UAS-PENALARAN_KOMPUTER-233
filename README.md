@@ -10,7 +10,6 @@ Proyek ini menggunakan metode Case-Based Reasoning (CBR) untuk mengklasifikasika
 ├── data/               # Berisi dataset mentah & hasil preprocessing
 ├── notebooks/          # Berisi Jupyter Notebook per tahap
 │   └── CBR.ipynb
-├── requirements.txt    # Daftar library yang dibutuhkan
 └── README.md           # File ini
 ```
 
@@ -27,11 +26,6 @@ cd nama-repo
 python -m venv venv
 source venv/bin/activate      # Linux/macOS
 venv\Scripts\activate       # Windows
-```
-
-### 3. Install dependencies:
-```bash
-pip install -r requirements.txt
 ```
 
 ## ▶️ Menjalankan Pipeline (End-to-End)
