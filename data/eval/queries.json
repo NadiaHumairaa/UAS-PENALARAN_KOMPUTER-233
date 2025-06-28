@@ -1,0 +1,32 @@
+[
+  {
+    "query_id": "q001",
+    "query_text": "Kasus narkotika dengan barang bukti sabu-sabu.",
+    "ground_truth": [
+      "case_001",
+      "case_005"
+    ]
+  },
+  {
+    "query_id": "q002",
+    "query_text": "Terdakwa divonis bebas dalam kasus pidana umum.",
+    "ground_truth": [
+      "case_003"
+    ]
+  },
+  {
+    "query_id": "q003",
+    "query_text": "Perkara pidana mengenai pencurian dengan kekerasan.",
+    "ground_truth": [
+      "case_002",
+      "case_004"
+    ]
+  },
+  {
+    "query_id": "q004",
+    "query_text": "Kasus yang melibatkan pasal 112 Undang-Undang Narkotika.",
+    "ground_truth": [
+      "case_001"
+    ]
+  }
+]
